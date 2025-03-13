@@ -1,9 +1,6 @@
 # Amazon_Sales_EDA
 This project is an Exploratory Data Analysis (EDA) of Amazon Sales Data, aimed at uncovering key insights into sales performance across regions, item types, and sales channels. The analysis dives into trends, patterns, and factors influencing sales and profit, using Python and popular libraries like Pandas, NumPy, Matplotlib, and Seaborn.
-Excited to share my latest project where I conducted an Exploratory Data Analysis (EDA) on Amazon Sales Data! 📊
-
-The goal of this project was to uncover key insights into sales performance across different regions, item types, and sales channels. Here’s a quick rundown of my process:
-
+ 📊
 🔍 **1. Data Cleaning and Preparation:**
 
 - Imported and explored the dataset to understand its structure.
